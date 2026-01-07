@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/arif-mahmud-sisir-aba995199">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME](https://www.kaggle.com/arifmahmudsisir">
+  <a href="https://www.kaggle.com/arifmahmudsisir">
     <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
   <a href="mailto:sisir711954@gmail.com">
