@@ -29,7 +29,7 @@
 
 I am an innovative **AI Engineer** specializing in **Generative AI**, **Computer Vision**, and **Business Automation**. Currently serving as a Senior AI Developer at *Sparktech Agency*, I focus on building scalable intelligent systems. My work ranges from deploying LLMs for CRM automation to developing medical diagnostic models using Deep Learning.
 
-* 🔭 **Current Role:** Senior AI Developer @ Sparktech Agency
+* 🔭 **Current Role:** Senior AI Developer
 * 🎓 **Education:** B.Sc in CSE, Southeast University
 * 🔬 **Research:** Deep Learning in Medical Imaging (Published in IJISAE)
 
